@@ -12,4 +12,3 @@ console.log(
     `A aluna da posição 2 da lista de alunos é:${listaDeAlunosEMedias[0][1]}
     A nota dessa aluna é ${listaDeAlunosEMedias[1][2]}`
 );
-
